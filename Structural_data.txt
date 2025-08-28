@@ -1,0 +1,14 @@
+entry_id
+4N3E
+cell_data
+a 146.290000
+b 146.290000
+c 298.560000
+alpha 90.000000
+beta 90.000000
+gamma 90.000000
+Crystallographic_Group 5
+Components
+MET ALA TYR THR ILE VAL LYS GLU SER PRO HIS ARG LEU PHE GLN GLY ASP ASN CYS 2AN EPE SO4 HOH 
+Atoms
+N C O S 
